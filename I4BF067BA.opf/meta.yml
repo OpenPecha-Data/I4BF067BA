@@ -1,0 +1,26 @@
+id: I4BF067BA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:07:38.328721'
+last_modified: '2022-05-30T23:07:38.328735'
+parser: null
+source_metadata:
+  title: Seventh Dalai Lama Series
+  language: en
+  description: 'Texts by the Seventh Dalai Lama, Kalzang Gyatso (skal bzang rgya mtsho,
+    1708–1757):'
+  volume:
+    f66EF:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      base_file: f66EF.txt
+      order: 1
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
